@@ -1,0 +1,17 @@
+Reading Layer Conversion File 
+Reading DXF file...
+NOTE: Replacing illegal character * with X in *Model_Space.
+NOTE: Replacing illegal character * with X in *Paper_Space.
+NOTE: Replacing illegal character * with X in *Paper_Space0.
+NOTE: Replacing illegal character * with X in *D1.
+NOTE: Replacing illegal character * with X in *D2.
+done.
+Layer conversion file: C:/projects/Mosac/brd_tilebridge/Bridgedetailnew_l.cnv
+DXF file: C:/projects/Mosac/brd_tilebridge/Bridgedetailnew.dxf
+BRD file: C:/projects/Mosac/brd_tilebridge/layout/#Taaaaae11436.tmp
+Update existing design?: YES
+Use default text?: NO
+DXF units: MILLIMETERS
+Design units: MILS
+Design precision: 1
+dxf2a complete.

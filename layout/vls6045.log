@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : VLS6045.dra                                   )
+(    Software Version : 17.4S027                                      )
+(    Date/Time        : Tue Nov 28 12:17:46 2023                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/projects/Mosac/brd_tilebridge/layout
+    Name      = vls6045.psm
+    User      = John
+    Machine   = DESKTOP-6S4MJI9
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

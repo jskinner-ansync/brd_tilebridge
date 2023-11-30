@@ -1,0 +1,46 @@
+
+
+   ---- Transcoding 'C:\projects\Mosac\brd_tilebridge\layout\SMT.art' ----   Wed Nov 29 10:51:36 2023
+
+D10   --> D100
+D11   --> D101
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\projects\Mosac\brd_tilebridge\layout\TOP.art' ----   Wed Nov 29 10:51:43 2023
+
+D10   --> D102
+D11   --> D103
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\projects\Mosac\brd_tilebridge\layout\BOTTOM.art' ----   Wed Nov 29 10:52:02 2023
+
+D10   --> D104
+D11   --> D105
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\projects\Mosac\brd_tilebridge\layout\SMB.art' ----   Wed Nov 29 10:52:11 2023
+
+D10   --> D106
+D11   --> D107
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\projects\Mosac\brd_tilebridge\layout\BSILK.art' ----   Wed Nov 29 10:52:21 2023
+
+D10   --> D108
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\projects\Mosac\brd_tilebridge\layout\BSILK.art' ----   Wed Nov 29 10:56:09 2023
+
+D10   --> D108
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\projects\Mosac\brd_tilebridge\layout\OUTLINE.art' ----   Wed Nov 29 10:58:39 2023
+
+D10   --> D109
+-----------------------------------------------------------------
